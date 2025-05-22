@@ -24,3 +24,8 @@ This repository is divided to branches that correspond to the blog post sections
 # Original code
 
 ![alt text](image.png)
+
+# Be Creative!
+![alt text](image-1.png)
+
+The chat view is laid out as a horizontal flex container with a vibrant gradient sidebar showing each user in a semi-transparent card with a rounded avatar and hover effect. The main area features a translucent header titled “Chat!” above a scrollable list of white, rounded message cards that include a blue-bordered avatar, bold blue sender name, and gray text with gif links rendered as images. A translucent footer holds a rounded green input field with a focus ring and a circular green send button adorned with a paper-plane icon that darkens on hover.
